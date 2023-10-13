@@ -1,0 +1,96 @@
+.titulo{
+    font-size: 300%;
+    font-style:italic;
+    color: #df96fc;
+    text-shadow:
+        0 0 5px rgb(237, 165, 255),
+        0 0 10px rgb(221, 114, 248),
+        0 0 20px rgb(203, 80, 252),
+        0 0 40px rgb(182, 35, 226),
+        0 0 80px rgb(158, 38, 173),
+        0 0 90px rgb(114, 29, 131),
+        0 0 100px rgba(114, 29, 131),
+        0 0 140px rgba(114, 29, 131),
+        0 0 180px rgb(99, 26, 114);
+        padding-top: 0%;
+}
+.titulo2{
+    font-size: 300%;
+    margin-left: 10%;
+    font-style:italic;
+    color: #df96fc;
+    text-shadow:
+        0 0 5px rgb(237, 165, 255),
+        0 0 10px rgb(221, 114, 248),
+        0 0 20px rgb(203, 80, 252),
+        0 0 40px rgb(182, 35, 226),
+        0 0 80px rgb(158, 38, 173),
+        0 0 90px rgb(114, 29, 131),
+        0 0 100px rgba(114, 29, 131),
+        0 0 140px rgba(114, 29, 131),
+        0 0 180px rgb(99, 26, 114);
+        padding-top: 0%;
+}
+
+
+.boton{
+    size: 9000px;
+    padding-right: 10%;
+    margin-top:3cm;
+    margin-left: 2.5cm;
+    background: linear-gradient(
+        to right,
+        pink,
+        rgb(186, 72, 186),
+        purple
+    );
+        
+    
+}
+.columna{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+  }
+
+  .boton2{
+    size: 9000px;
+    padding-right: 10%;
+    margin-top:3cm;
+    margin-left: 2.5cm;
+    background: linear-gradient(
+        to right,
+        pink,
+        rgb(186, 72, 186),
+        purple
+    );
+
+        
+    
+}
+.boton3{
+    width: 10px;
+    height: 27px;
+    padding-right: 80%;
+    margin-top:5cm;
+    background: linear-gradient(
+        to right,
+        pink,
+        rgb(186, 72, 186),
+        purple
+    );
+}
+.perfil{
+    height: 30px;
+    width: 30px;
+    color: #df96fc;
+    margin-bottom: 100%;
+    margin-left: 100%;
+}
+.marco1{
+    height: 3cm;
+    width: 3cm;
+    background-color: #df96fc;
+    margin-left: 2.5cm;
+    margin-top: 2.5cm;
+}
