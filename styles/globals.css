@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+input,
+textarea{
+    @apply shadow-md px-0 py-3
+}
